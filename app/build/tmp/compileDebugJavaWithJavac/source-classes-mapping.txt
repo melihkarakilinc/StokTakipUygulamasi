@@ -1,0 +1,21 @@
+com/example/bordkodstoktakibi/BuildConfig.java
+ com.example.bordkodstoktakibi.BuildConfig
+com/example/bordkodstoktakibi/MainActivity.java
+ com.example.bordkodstoktakibi.MainActivity
+ com.example.bordkodstoktakibi.MainActivity$1
+ com.example.bordkodstoktakibi.MainActivity$1$1
+ com.example.bordkodstoktakibi.MainActivity$1$2
+ com.example.bordkodstoktakibi.MainActivity$2
+com/example/bordkodstoktakibi/StokBilgi.java
+ com.example.bordkodstoktakibi.StokBilgi
+com/example/bordkodstoktakibi/ConnectionClass.java
+ com.example.bordkodstoktakibi.ConnectionClass
+com/example/bordkodstoktakibi/UrunlerActivity.java
+ com.example.bordkodstoktakibi.UrunlerActivity
+ com.example.bordkodstoktakibi.UrunlerActivity$1
+ com.example.bordkodstoktakibi.UrunlerActivity$2
+ com.example.bordkodstoktakibi.UrunlerActivity$3
+com/example/bordkodstoktakibi/BarkodAdapter.java
+ com.example.bordkodstoktakibi.BarkodAdapter
+ com.example.bordkodstoktakibi.BarkodAdapter$1
+ com.example.bordkodstoktakibi.BarkodAdapter$CardTasarimTutucu

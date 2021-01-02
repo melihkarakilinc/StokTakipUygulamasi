@@ -1,0 +1,342 @@
+[
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_qr_code.xml.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\qr_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg1.xml.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\drawable\\bg1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_stock.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\mipmap-xxxhdpi\\stock.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_search.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic__cc.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic__cc.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_qr_code.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\qr_code.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_urunler.xml.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\layout\\activity_urunler.xml"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg4.xml.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\drawable\\bg4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic__c4c.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic__c4c.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic__c4c.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic__c4c.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic__c.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic__c.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_cc.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_cc.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cc.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_cc.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_cc.xml.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_cc.xml"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\layout_alertcostom.xml.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\layout\\alertcostom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic__c.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic__c.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_qr_code.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\qr_code.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic__c4c.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic__c4c.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic__c4c.xml.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic__c4c.xml"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_edittext_costom.xml.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\drawable-v24\\edittext_costom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg2.xml.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\drawable\\bg2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_man.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_man.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_cc.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_cc.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_search.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic__c.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic__c.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_man.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_man.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_qr_code.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\qr_code.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_tasarimi_2.xml.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\layout\\card_tasarimi_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_man.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_man.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic__c4c.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic__c4c.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_tasarimi.xml.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\layout\\card_tasarimi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cc.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_cc.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic__cc.xml.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic__cc.xml"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic__cc.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic__cc.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_qr_code.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\qr_code.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic__c.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic__c.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg3.xml.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\drawable\\bg3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\anim_scale_down.xml.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\anim\\scale_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic__cc.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic__cc.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_search.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_search.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_inventory.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\drawable\\inventory.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic__cc.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic__cc.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_barcode.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\drawable\\barcode.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic__c4c.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic__c4c.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_cc.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_cc.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_qr_code.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\qr_code.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_man.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_man.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_man.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_man.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic__c.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic__c.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cc.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_cc.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic__c.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic__c.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_qr_code.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\qr_code.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_search.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\anim_scale_up.xml.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\anim\\scale_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scanner.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\drawable\\scanner.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic__cc.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic__cc.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic__c4c.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic__c4c.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_man.xml.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_man.xml"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic__cc.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic__cc.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_search.xml.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic__c.xml.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic__c.xml"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_man.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_man.png"
+    }
+]
