@@ -28,6 +28,14 @@
         "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic__cc.png"
     },
     {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\anim_scale_upcard.xml.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\anim\\scale_upcard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\anim_scale_downcard.xml.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\anim\\scale_downcard.xml"
+    },
+    {
         "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_qr_code.png.flat",
         "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\qr_code.png"
     },
@@ -140,10 +148,6 @@
         "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\qr_code.png"
     },
     {
-        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_tasarimi_2.xml.flat",
-        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\layout\\card_tasarimi_2.xml"
-    },
-    {
         "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_man.png.flat",
         "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_man.png"
     },
@@ -154,6 +158,10 @@
     {
         "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\layout_card_tasarimi.xml.flat",
         "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\layout\\card_tasarimi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_add.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\drawable-v24\\add.png"
     },
     {
         "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
@@ -174,6 +182,10 @@
     {
         "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_qr_code.png.flat",
         "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\qr_code.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\layout_alertcostomdetay.xml.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\layout\\alertcostomdetay.xml"
     },
     {
         "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic__c.png.flat",
@@ -240,6 +252,10 @@
         "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_remove.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\drawable-v24\\remove.png"
+    },
+    {
         "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
         "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
@@ -274,6 +290,10 @@
     {
         "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cc.png.flat",
         "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_cc.png"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg22.xml.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\drawable-v24\\bg22.xml"
     },
     {
         "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic__c.png.flat",
@@ -316,6 +336,10 @@
         "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic__c4c.png"
     },
     {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_business_man.png.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\drawable-v24\\business_man.png"
+    },
+    {
         "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
@@ -334,6 +358,10 @@
     {
         "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic__c.xml.flat",
         "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic__c.xml"
+    },
+    {
+        "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable_viewozel.xml.flat",
+        "source": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\src\\main\\res\\drawable\\viewozel.xml"
     },
     {
         "merged": "C:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_man.png.flat",

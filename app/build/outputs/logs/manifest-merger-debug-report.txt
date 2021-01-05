@@ -110,7 +110,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Me
 	android:theme
 		ADDED from C:\Users\Melih\Desktop\BordkodStokTakibi\app\src\main\AndroidManifest.xml:14:9-55
 activity#com.example.bordkodstoktakibi.UrunlerActivity
-ADDED from C:\Users\Melih\Desktop\BordkodStokTakibi\app\src\main\AndroidManifest.xml:15:9-62
+ADDED from C:\Users\Melih\Desktop\BordkodStokTakibi\app\src\main\AndroidManifest.xml:15:9-53
 	android:name
 		ADDED from C:\Users\Melih\Desktop\BordkodStokTakibi\app\src\main\AndroidManifest.xml:15:19-50
 activity#com.example.bordkodstoktakibi.MainActivity

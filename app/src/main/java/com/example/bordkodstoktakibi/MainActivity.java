@@ -1,6 +1,5 @@
 package com.example.bordkodstoktakibi;
 
-import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.app.Activity;
@@ -9,7 +8,6 @@ import android.content.Intent;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
@@ -35,26 +33,31 @@ public class MainActivity extends AppCompatActivity {
         final Activity activity = this;
         button = (Button) findViewById(R.id.button);
         btn_urunler = (Button) findViewById(R.id.btn_urunler);
-        txt_sonuc = (TextView) findViewById(R.id.txt_sonuc);
-        text_qr_code_sonuc = (TextView) findViewById(R.id.qr_code_sonucu);
+        txt_sonuc = (TextView) findViewById(R.id.txt_barkodno2);
+        text_qr_code_sonuc = (TextView) findViewById(R.id.txt_urunadi);
         txt_code_kind = (TextView) findViewById(R.id.txt_code_kind);
         txt_qr_code_kind_result = (TextView) findViewById(R.id.txt_qr_code_kind_result);
 
+        //firebase database tanımlaması
         FirebaseDatabase database = FirebaseDatabase.getInstance();
         DatabaseReference myRef = database.getReference("Kisiler");
 
 
+        //animasyonlar
         scale_up= AnimationUtils.loadAnimation(this,R.anim.scale_up);
         scale_down= AnimationUtils.loadAnimation(this,R.anim.scale_down);
 
 
 
 
+        //tara butonuna tıklandığında
             button.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {
+                    //animasyon atadık
                     button.startAnimation(scale_up);
                     button.startAnimation(scale_down);
+                    //buton üzerinde ki text tara ise tarama ekranını açar
                     if (button.getText().equals("TARA")) {
                         //Bu activity içinde çalıştırıyoruz.
                         IntentIntegrator integrator = new IntentIntegrator(activity);
@@ -76,50 +79,64 @@ public class MainActivity extends AppCompatActivity {
 
                         //
                     }
+                    //buton üzerinde ki text kaydet ise (taranan değer okunmuş ise) alert ile değerler alınıp kaydedilir
                         if (button.getText().equals("KAYDET")) {
 
-                            //SQL KAYDETME
 
 
+
+                            //alert tanımlaması
                             Dialog dialog = new Dialog(MainActivity.this);
+                            //arka planı tranparan yaptık. yoksa arka plan beyaz gözüküğr
                             dialog.getWindow().setBackgroundDrawable(new ColorDrawable(Color.TRANSPARENT));
+                            //alert tasarımımızı atadık
                             dialog.setContentView(R.layout.alertcostom);
                             dialog.show();
 
 
 
-                            //buraya edt ve buton eklenecek
+                            //alert üzerindeki viewleri yakaladık
                             EditText edt_alert_stokad = dialog.findViewById(R.id.edt_alert_stokad);
                             stokadi = edt_alert_stokad.getText().toString();
-                            EditText edt_alert_stok_adedi = dialog.findViewById(R.id.edt_alert_stok_adedi);
+                            EditText edt_alert_stok_adedi = dialog.findViewById(R.id.edt_alert_stok_ekle);
                             stokadedi = edt_alert_stok_adedi.getText().toString();
-                            Button alert_btn_kaydet = dialog.findViewById(R.id.alert_btn_kaydet);
+                            Button alert_btn_kaydet = dialog.findViewById(R.id.alert_btn_ekle2);
                             Button alert_btn_iptal = dialog.findViewById(R.id.alert_btn_iptal);
 
 
 
 
 
+                            //alert de kaydet butonuna tıklanırsa
                             alert_btn_kaydet.setOnClickListener(new View.OnClickListener() {
                                 @Override
                                 public void onClick(View v) {
 
+                                    //animasyon atadık
                                     alert_btn_kaydet.startAnimation(scale_up);
                                     alert_btn_kaydet.startAnimation(scale_down);
-                                    // kaydet butonuna basıldığında
 
+
+                                    //alertde editTextler boş ise
                                     if (edt_alert_stok_adedi.getText().toString().equals("") || edt_alert_stokad.getText().toString().equals("")){
                                         Toast.makeText(MainActivity.this,"TÜM ALANLARI DOLDURUN",Toast.LENGTH_SHORT).show();
                                     }
+                                    //alertde editTextler boş değil ise
                                     else {
+                                        //keyi atadık
                                         String key = myRef.push().getKey();
 
+                                        //Stok bilgi sınıfına değerleri gönderip kaydettik
                                         StokBilgi stk=new StokBilgi(key,kodsonucu,edt_alert_stok_adedi.getText().toString().trim(),(edt_alert_stokad.getText().toString().trim().toUpperCase()));
                                         myRef.push().setValue(stk);
                                         dialog.dismiss();
+                                        //kayıt işlemi sonrası buton textini tara yaptık
                                         button.setText("TARA");
                                         txt_sonuc.setText("QR KOD SONUC");
                                         Toast.makeText(MainActivity.this,"KAYIT İŞLEMİ BAŞARILI",Toast.LENGTH_SHORT).show();
+
+
+
                                     }
 
 
@@ -127,6 +144,7 @@ public class MainActivity extends AppCompatActivity {
                                 }
                             });
 
+                            //alertde iptal butonuna tıklanırsa
                             alert_btn_iptal.setOnClickListener(new View.OnClickListener() {
                                 @Override
                                 public void onClick(View v) {
@@ -140,7 +158,7 @@ public class MainActivity extends AppCompatActivity {
                                 }
                             });
 
-                            //
+
 
 
                         }
@@ -149,46 +167,6 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-//
-//                            View tasarim = getLayoutInflater().inflate(R.layout.alertcostom,null);
-//                            AlertDialog.Builder ad= new AlertDialog.Builder(MainActivity.this);
-//                            ad.setView(tasarim);
-//                            ad.create().show();
-//
-//                            //buraya edt ve buton eklenecek
-//                            EditText edt_alert_stokad=tasarim.findViewById(R.id.edt_alert_stokad);
-//                            stokadi=edt_alert_stokad.getText().toString();
-//                            EditText edt_alert_stok_adedi=tasarim.findViewById(R.id.edt_alert_stok_adedi);
-//                            stokadedi=edt_alert_stok_adedi.getText().toString();
-//                            Button alert_btn_kaydet=tasarim.findViewById(R.id.alert_btn_kaydet);
-//                            Button alert_btn_iptal=tasarim.findViewById(R.id.alert_btn_iptal);
-//
-//
-//                            alert_btn_kaydet.setOnClickListener(new View.OnClickListener() {
-//                                @Override
-//                                public void onClick(View v) {
-//                                    // kaydet butonuna basıldığında
-//                                }
-//                            });
-//
-//                            alert_btn_iptal.setOnClickListener(new View.OnClickListener() {
-//                                @Override
-//                                public void onClick(View v) {
-//                                    // iptal butonuna basıldığında
-//                                    Toast.makeText(MainActivity.this, "İptal'e tıklandı", Toast.LENGTH_SHORT).show();
-//
-//
-//                                }
-//                            });
-//
-//                            //
-//
-//
-//
-//
-//                        }
-//                }
-//            });
 
 
 

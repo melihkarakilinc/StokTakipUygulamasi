@@ -29,6 +29,7 @@ public class UrunlerActivity extends AppCompatActivity {
     private DatabaseReference myRef;
     private ArrayList<StokBilgi> stokBilgiListe;
     private EditText edt_arama;
+    String key;
 
 
     @Override
@@ -97,7 +98,7 @@ public class UrunlerActivity extends AppCompatActivity {
 
 
                     StokBilgi stokBilgi = d.getValue(StokBilgi.class);
-                    String key = d.getKey();
+                    key = d.getKey();
                     stokBilgi.setStok_id(key);
                     stokBilgiListe.add(stokBilgi);
 

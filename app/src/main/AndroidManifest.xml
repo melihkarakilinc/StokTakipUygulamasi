@@ -12,7 +12,7 @@
         android:roundIcon="@mipmap/stock"
         android:supportsRtl="true"
         android:theme="@style/Theme.BordkodStokTakibi">
-        <activity android:name=".UrunlerActivity"></activity>
+        <activity android:name=".UrunlerActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -41,7 +41,7 @@
                 android:textSize="24sp" />
 
             <EditText
-                android:id="@+id/edt_alert_stok_adedi"
+                android:id="@+id/edt_alert_stok_ekle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_margin="20dp"
@@ -65,7 +65,7 @@
                 android:scrollbarTrackHorizontal="@color/purple_500">
 
                 <Button
-                    android:id="@+id/alert_btn_kaydet"
+                    android:id="@+id/alert_btn_ekle2"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_margin="20dp"

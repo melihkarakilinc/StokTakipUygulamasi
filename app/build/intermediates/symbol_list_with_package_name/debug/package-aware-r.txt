@@ -31,7 +31,9 @@ anim mtrl_bottom_sheet_slide_in
 anim mtrl_bottom_sheet_slide_out
 anim mtrl_card_lowers_interpolator
 anim scale_down
+anim scale_downcard
 anim scale_up
+anim scale_upcard
 animator design_appbar_state_list_animator
 animator design_fab_hide_motion_spec
 animator design_fab_show_motion_spec
@@ -1564,11 +1566,13 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable add
 drawable avd_hide_password
 drawable avd_show_password
 drawable barcode
 drawable bg1
 drawable bg2
+drawable bg22
 drawable bg3
 drawable bg4
 drawable btn_checkbox_checked_mtrl
@@ -1579,6 +1583,7 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable business_man
 drawable common_full_open_on_phone
 drawable common_google_signin_btn_icon_dark
 drawable common_google_signin_btn_icon_dark_focused
@@ -1649,11 +1654,13 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable qr_code
+drawable remove
 drawable scanner
 drawable search
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable viewozel
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -1723,11 +1730,12 @@ id action_text
 id actions
 id activity_chooser_view_content
 id add
+id addimage
 id adjust_height
 id adjust_width
 id alertTitle
+id alert_btn_ekle2
 id alert_btn_iptal
-id alert_btn_kaydet
 id aligned
 id all
 id always
@@ -1771,6 +1779,7 @@ id chip2
 id chip3
 id chip_group
 id chronometer
+id cikarimage
 id clear_text
 id clip_horizontal
 id clip_vertical
@@ -1814,7 +1823,7 @@ id easeIn
 id easeInOut
 id easeOut
 id edit_query
-id edt_alert_stok_adedi
+id edt_alert_stok_ekle
 id edt_alert_stokad
 id edt_arama
 id end
@@ -1858,7 +1867,6 @@ id imageView
 id imageView2
 id imageView3
 id imageView4
-id imageView5
 id imageView7
 id info
 id invisible
@@ -1936,7 +1944,6 @@ id position
 id postLayout
 id progress_circular
 id progress_horizontal
-id qr_code_sonucu
 id radio
 id ratio
 id rectangles
@@ -1947,7 +1954,6 @@ id right_side
 id rounded
 id row_index_key
 id satirCardView
-id satirCardView2
 id save_non_transition_alpha
 id save_overlay_view
 id sawtooth
@@ -2022,7 +2028,6 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textView
-id textView9
 id text_input_end_icon
 id text_input_start_icon
 id textinput_counter
@@ -2048,16 +2053,13 @@ id transition_scene_layoutid_cache
 id transition_transform
 id triangle
 id txt_adet
-id txt_adet2
 id txt_barkod_no
-id txt_barkod_no2
+id txt_barkodno2
 id txt_code_kind
 id txt_id
-id txt_id2
 id txt_qr_code_kind_result
-id txt_sonuc
 id txt_stok_ad
-id txt_stok_ad2
+id txt_urunadi
 id unchecked
 id uniform
 id unlabeled
@@ -2146,8 +2148,8 @@ layout abc_tooltip
 layout activity_main
 layout activity_urunler
 layout alertcostom
+layout alertcostomdetay
 layout card_tasarimi
-layout card_tasarimi_2
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog

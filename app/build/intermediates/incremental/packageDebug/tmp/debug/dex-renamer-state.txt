@@ -1,4 +1,4 @@
-#Sat Jan 02 17:25:58 EET 2021
+#Sun Jan 03 14:10:48 EET 2021
 base.0=C\:\\Users\\Melih\\Desktop\\BordkodStokTakibi\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
